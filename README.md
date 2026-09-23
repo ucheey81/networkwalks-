@@ -156,7 +156,7 @@ LinkedIn: https://www.linkedin.com/in/odife-jude-2268b738a?utm_source=share_via&
 Project Information
 <img width="1920" height="1080" alt="Screenshot From 2026-09-23 23-47-38" 
   src="https://github.com/user-attachments/assets/1d1e6483-b99f-44a6-a3a1-3c06713a241d" />
-  <img width="1125" height="928" alt="WhatsApp Image 2026-09-23 at 23 44 38" src="https://github.com/user-attachments/assets/bb92d338-a12d-4be1-bf90-76bff4187089" />
+<img width="462" height="359" alt="Screenshot From 2026-09-24 00-56-41" src="https://github.com/user-attachments/assets/687e01a5-3db1-4ed6-90ed-9b087cc01af6" />
 
 
 Program Name: Cybersecurity at Networkwalks | Week: 01 | Project: Cybersecurity & Pentesting Lab Setup | Repository: GitHub
